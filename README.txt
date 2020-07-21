@@ -3,7 +3,7 @@ INSTRUCTIONS
 
 $ pkg install git
 
-$ git clone https://github.com/Ignitetch/AdvPhishing.git
+$ git clone https://github.com/thebhikandeshmukh/AdvPhishing.git
 
 $ cd AdvPhishing
 
